@@ -11,6 +11,8 @@ We experiment with both:
 
 ## Dataset
 
+The data originates from [**Toxic Comment Classification Challenge on Kaggle**] (https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge)
+
 Each comment is annotated with **6 binary labels**, indicating the presence (`1`) or absence (`0`) of a toxicity type.
 
 **Label list:**
